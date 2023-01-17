@@ -14,6 +14,7 @@ public class Inicio extends PelisWeb{
     private String peliculaPrincipal;
     
     public InfoDeAutor infoDeAutor;
+    public MiLista miLista;
     
     public static void mostrarPeliculasRecomendadas(){
         
