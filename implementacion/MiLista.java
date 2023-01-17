@@ -12,6 +12,9 @@ public class MiLista extends PelisWeb{
     private String encabezado;
     private String peliculaList2;
     
+    public Inicio inicio;
+    public RecienteList recienteList;
+    
     public static void mostarMiLista(String peliculaList2){
         
     }
