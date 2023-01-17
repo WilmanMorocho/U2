@@ -12,6 +12,9 @@ public class RecienteList extends PelisWeb{
     private String encabezado;
     private String peliculaRecienteList;
     
+    public DisponibleList disponibles;
+    public MiLista miLista;
+    
     public static void mostrarPeliculaReciente(String peliculaRecienteList){
     
     }
