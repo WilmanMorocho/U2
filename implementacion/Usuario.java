@@ -12,6 +12,8 @@ public class Usuario {
     private String nombreUsuario;
     private String contraseña;
     
+    public PelisWeb pelisWeb;
+    
     public static void iniciarSesion(String nombreUsuario, String contraseña){
         
     }
