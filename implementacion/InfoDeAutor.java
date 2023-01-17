@@ -12,6 +12,9 @@ public class InfoDeAutor {
     private String descripcion;
     private String nombre;
     
+    public DisponibleList disponibles;
+    public Inicio inicio;
+    
     public static void mostrarInformacion(String descripcion, String nombre){
     
     }
