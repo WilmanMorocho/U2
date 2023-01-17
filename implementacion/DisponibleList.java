@@ -13,6 +13,9 @@ public class DisponibleList extends PelisWeb{
     private String encabezado;
     private String peliculaDisponibleList;
     
+    public RecienteList recienteList;
+    public InfoDeAutor infoDeAutor;
+    
     public static void mostrarPeliculasDisponible(String peliculaDisponibleList){
     
     }
