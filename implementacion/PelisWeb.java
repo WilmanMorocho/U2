@@ -13,6 +13,8 @@ public class PelisWeb {
     private String peliculaList;
     private String pestañaList;
     
+    public Usuario usuario;
+    
     
     public static void main(String[] args) {
         // TODO code application logic here
